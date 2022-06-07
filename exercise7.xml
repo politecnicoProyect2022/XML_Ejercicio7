@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complementos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="exercise7.xsd">
+    <!--CON DTD NO SE PUEDE RESTRINGIR O PONER COMO TAL UN RANGO
+     EL CUAL PERMITA HACER LA REALIZACIÓN DE ESTE EJERCICIO,
+     SE PODRIA REALIZAR HACIENDO USO DE ATRIBUTOS OPCIONALES, SIN EMBARGO,
+     EL EJEMPLO QUE SE PIDE EN EL TALLER NO ES CON ATRIBUTOS-->
+
+    <cantidad>-30</cantidad>
+    <cantidad>12</cantidad>
+    <cantidad>-25</cantidad>
+    <cantidad>19</cantidad>
+</complementos>
